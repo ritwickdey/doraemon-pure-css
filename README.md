@@ -1,6 +1,6 @@
 ## Doraemon
 
-![Screenshot](./img/screenshot.png)
+[![Screenshot](./img/screenshot.png)](https://ritwickdey.github.io/doraemon-pure-css/)
 
 
 URL: https://ritwickdey.github.io/doraemon-pure-css
